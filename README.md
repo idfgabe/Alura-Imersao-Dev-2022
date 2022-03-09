@@ -1,5 +1,5 @@
 # Alura Imersao Dev 2022
-Neste repositório encontram-se exercícios e desafios propostos na Imersão Dev, uma iniciativa da plataforma Alura, pelos professores. Todos esses codigos foram executados no site do [CodePen](codepen.io) gratuitamente no navegador que pode ser usada para programar nas linguagens de HTML, CSS e JavaScript com ferramenta de debugg e console. Este intensivo de 10 dias com aulas e desafios propostos tem por finalidade introduzir novas pessoas ao mundo do Desenvolvimento Web e também aprimorar o conhecimento daqueles que já tem alguma familiaridade com as linguagens Front-End.
+Neste repositório encontram-se exercícios e desafios propostos na Imersão Dev, uma iniciativa da plataforma Alura, pelos professores. Todos esses codigos foram executados no site do [CodePen](https://codepen.io) gratuitamente no navegador que pode ser usada para programar nas linguagens de HTML, CSS e JavaScript com ferramenta de debugg e console. Este intensivo de 10 dias com aulas e desafios propostos tem por finalidade introduzir novas pessoas ao mundo do Desenvolvimento Web e também aprimorar o conhecimento daqueles que já tem alguma familiaridade com as linguagens Front-End.
 
 ## Exercícios e desafios 
 [Aula 01: Calculadora de Média - Desafio Proposto pela Rafaella](https://codepen.io/idfgabe/pen/XWzLmKK)
